@@ -1,5 +1,5 @@
 # 3D Car Racing Game
-An exciting 3D car racing game built using Unity and C#.
+An exciting and simple 3D car racing game built using Unity and C#.
 ## Installation
 1. Clone this repository:
 
